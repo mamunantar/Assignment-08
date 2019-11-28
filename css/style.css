@@ -1,0 +1,401 @@
+/* Author
+
+Name: Md. Mamunur Rashid;
+Email : mamunantar@gmail.com;
+
+*/
+
+
+/*
+
+=====Index=====
+
+1. Header
+2. Fusce at
+3. Facilisis
+4. Ante donec
+5. Blandit rhoncus
+6. Placerat
+7. Footer
+
+*/
+
+
+/*Global CSS*/
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+header{
+
+}
+
+h1{
+
+}
+
+h2{
+	
+}
+
+h3{
+	
+}
+
+h4{
+	
+}
+
+h5{
+	
+}
+
+h6{
+	
+}
+
+p{
+	
+}
+
+/* Header Part Start */
+
+.nav-head{
+	padding: 15px 0!important;
+	background-color: #edeff1!important;
+}
+
+.nav-item{
+	margin: 10px;
+}
+
+.nav-link{
+	color: #161616!important;
+}
+
+.nav-link.js-scroll-trigger.active{
+	background-color: #dd4b2b;
+	color: #fff!important;
+	border-radius: 25px;
+	padding: 8px 25px;
+}
+
+
+/* Header Part End */
+
+/* Fusceat Part Start */
+
+.hero-one{
+	background: url(../img/image1.png)no-repeat;
+	background-size: cover;
+}
+
+.hero-one-title{
+	text-align: center;
+	color: #ffffff;
+}
+
+.hero-one-title h1{
+	font-size: 46px;
+	color: darkgray;
+}
+
+
+.hero-one-title p{
+	padding-bottom: 40px;
+}
+
+.hero-one-title-pic{padding-left: 58px;}
+
+.hero-one-title-pic img{
+	margin-bottom: 30px;
+}
+
+.hero-one-title-pic h2{
+	font-size: 23px;
+}
+
+.hero-one-title-pic p{
+	font-size: 10px;
+	padding: 53px;
+	padding-top: 10px;
+}
+
+.btn-one {
+	color: #6c3226;
+	background-color: #ffffff;
+	display: block;
+	margin: 12px auto 0px;
+	padding: 15px 50px;
+	border-radius: 50px;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+}
+
+.btn-one:hover {
+	background-color: darkcyan;
+	color: #fff;
+	transition: 0.4s ease;
+}
+
+/* Fusceat Part End */
+
+
+/* Facilisis Part Start */
+
+.hero-two{margin-top: -75px;background-color: #edeff1;}
+
+.hero-two-title{
+	text-align: center;
+	color: #ffffff;
+}
+
+.hero-two-title h1{
+	font-size: 46px;
+	color: black;
+	margin-top: -100px;
+}
+
+
+.hero-two-title p{
+	padding-bottom: 40px;
+}
+
+.hero-two-title-pic{padding: 25px 0px;}
+
+.hero-two-title-pic img{
+	margin-bottom: 30px;
+}
+
+.hero-two-title-pic h2{
+	font-size: 23px;
+	color: black;
+}
+
+.hero-two-title-pic p{
+	font-size: 10px;
+	padding: 53px;
+	padding-top: 10px;
+	color: black;
+}
+
+.btn-two {
+	color: #6c3226;
+	background-color: #ffffff;
+	display: block;
+	margin: -30px auto -81px;
+	padding: 7px 34px;
+	border-radius: 50px;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+}
+
+.btn-two:hover {
+	background-color: darkblue;
+	color: #fff;
+	transition: 0.4s ease;
+}
+
+
+/* Facilisis Part End */
+
+
+
+/* Ante Donec Part End */
+
+.hero-three {
+	background: url(../img/image8.png)no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+.hero-three-title{
+
+}
+
+.hero-three-title h1{
+	font-size: 46px;
+	color: #ffffff;
+	margin-top: -100px;
+}
+
+
+.hero-three-title p{
+	padding-bottom: 40px;
+	color: #ffffff;
+}
+
+.form-control {
+    background: transparent;
+    padding: 25px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.btn-three {
+    position: absolute;
+    color: #6c3226;
+    background-color: #ffffff;
+    display: block;
+    margin: 9px auto 135px;
+    padding: 12px 115px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    border: navajowhite;
+    top: 58px;
+    right: 16px;
+}
+
+.btn-three:hover {
+	background-color: darkgreen;
+	color: #fff;
+	transition: 0.4s ease;
+}
+
+input::placeholder {
+  color: #fff!important;
+}
+
+/* Ante Donec Part End */
+
+
+/*Blandit rhoncus section starts*/
+
+.hero-four {
+	background-color: #fff;
+}
+
+.hero-four-title{
+
+}
+
+.hero-four-title h1{
+	font-size: 46px;
+	color: black;
+	margin-top: -100px;
+}
+
+
+.hero-four-title p{
+	padding-bottom: 40px;
+	color: #ffffff;
+}
+
+.hero-four-title img{
+    margin-top: -120px;
+    margin-left: 18px;
+}
+
+.hero-five-title img{
+
+}
+
+.btn-four {
+	color: #fff;
+	background-color: #dd4b2b;
+	padding: 10px 80px;
+	border-radius: 50px;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+	margin-top: 50px;
+}
+
+.btn-four:hover {
+	background-color: #4b4e73;
+	color: #fff;
+	transition: 0.4s ease;
+}
+
+.btn-five {
+	color: #fff;
+	background-color: #4b4e73;
+	padding: 10px 80px;
+	border-radius: 50px;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+	margin-top: 50px;
+}
+
+.btn-five:hover {
+	background-color: #dd4b2b;
+	color: #fff;
+	transition: 0.4s ease;
+}
+
+.sec-one {
+	padding-bottom: 50px;
+}
+
+.sec-two {
+	padding-bottom: 80px;
+}
+/*Blandit rhoncus section ends*/
+
+
+/*Placerat section starts*/
+
+.hero-six {
+	background-color: #d75d0e;
+}
+
+.hero-six-title {
+	
+}
+
+.hero-six-title h1{
+	
+}
+
+.hero-six-title p{
+	
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+    display: block;
+    text-align: center;
+    color: #fff;
+}
+
+/*Placerat section ends*/
+
+/*Footer section starts*/
+
+footer {
+	background: url(../img/image8.png)no-repeat;
+	background-size: cover;
+}
+
+footer p {
+    padding: 80px 0px 200px;
+    width: 60%;
+    margin: 0 auto;
+    display: block;
+    color: #fff;
+    text-align: center;
+}
+
+/*Footer section End*/
+
+
+/*Media Query starts*/
+@media (max-width: 500px;) {
+	nav img {
+		display: block;
+		margin: 0 auto;
+	}
+
+	.nav-item {
+	margin: 10px 0px;
+	}
+
+}
